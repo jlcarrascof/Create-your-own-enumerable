@@ -1,10 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <img src="https://rysthcraft.netlify.app/img/LOGO-ONLY.svg" alt="logo" width="140"  height="auto" />
-  <br/>
-  <h3><b>John Palacios - RysthCraft</b></h3>
-</div>
 
 # 📗 Table of Contents
 
@@ -26,11 +21,12 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 RUBY Decode Morse <a name="about-project"></a>
+# 📖 Create your own Enumerable <a name="about-project"></a>
 
-**RUBY Decode Morse** ...
+**Create your own Enumerable** ...
 
 ## 🛠 Built With <a name="built-with"></a>
+
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -41,9 +37,22 @@
   </ul>
 </details>
 
+
 ### Key Features <a name="key-features"></a>
 
-- **Feature 1**
+- **Check offical documentation about the following 3 methods in Enumerable**
+
+- **Create a class MyList that has an instance variable @list**
+
+- **In MyList implement a method #each that yields successive members of @list and uses the MyEnumerable module.**
+
+- **Create a module MyEnumerable that implements the following methods (they should have the same funcionality as methods in Enumerable):
+
+    #all?
+    #any?
+    #filter **
+
+- **Each class and module should has a separate .rb file.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,8 +69,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-git clone https://github.com/Rysth/RUBY-Decode-Morse.git
-cd RUBY-Decode-Morse
+git clone https://github.com/jlcarrascof/Create-your-own-enumerable.git
+cd Create-your-own-enumerable
 code . (To open VS Code Editor)
 ```
 
@@ -79,16 +88,22 @@ To run the project, execute the following steps:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **John Palacios**
+👤 **EL MEHDI AHMIDOU**
 
-- GitHub: [@rysthcraft](https://github.com/Rysth)
-- Linkedin: [@johnpalacios](https://www.linkedin.com/in/john-palacios-rysthcraft/)
+- GitHub: [@ahmidou09](https://github.com/ahmidou09)
+- Twitter: [@el_ahmidou](https://twitter.com/el_ahmidou)
+- LinkedIn: [el mehdi ahmidou](https://www.linkedin.com/in/el-mehdi-ahmidou-312590125/)
+
+👤 **Javier Jesús Martinez Fariñas**
+
+- GitHub: [@jlcarrascof](https://github.com/jlcarrascof)
+- Twitter: [@javiersistemas](https://twitter.com/javiersistemas)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **⏲️**
+- [N/A]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
